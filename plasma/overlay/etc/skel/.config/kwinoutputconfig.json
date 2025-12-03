@@ -11,16 +11,16 @@
         "highDynamicRange": false,
         "iccProfilePath": "",
         "mode": {
-          "height": 2560,
+          "height": 2880,
           "refreshRate": 120000,
-          "width": 1600
+          "width": 1800
         },
         "overscan": 0,
         "rgbRange": "Automatic",
-        "scale": 2,
+        "scale": 1.7475727796554565,
         "sdrBrightness": 200,
         "sdrGamutWideness": 0,
-        "transform": "Rotated270",
+        "transform": "Rotated90",
         "vrrPolicy": "Automatic",
         "wideColorGamut": false
       }
